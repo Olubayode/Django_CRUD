@@ -3,7 +3,7 @@
 
 Created 20-06-2022 13:10:01
 
-Author: Olubayode Ebenezer
+Author: Olubayode Ebenezer.
 
 I Created a new GitHub repository with a README.md, and Python .gitignore file.
 
